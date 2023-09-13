@@ -1,0 +1,468 @@
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0"><colgroup><col width="233" /><col width="148" /><col width="100" /><col width="80" /><col width="77" /><col width="81" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Constituency&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Constituency</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Name &quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Name</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lead challenger&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Lead challenger</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;El Maps NEW&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">El Maps NEW</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Elect Calc NEW&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Elect Calc NEW</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Target seat?&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Target seat?</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Arundel and South Downs&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Arundel and South Downs</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Andrew Griffith&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Andrew Griffith</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tied LL&quot;}">Tied LL</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Arundel+and+South+Downs"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Arundel+and+South+Downs" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Beaconsfield&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Beaconsfield</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Joy Morrissey&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Joy Morrissey</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Beaconsfield"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Beaconsfield" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bicester and Woodstock&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Bicester and Woodstock</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Bicester+and+Woodstock"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Bicester+and+Woodstock" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bridgwater and West Somerset&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Bridgwater and West Somerset</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ian Liddell-Grainger&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Ian Liddell-Grainger</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Bridgwater"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Bridgwater" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bury St Edmunds and Stowmarket&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Bury St Edmunds and Stowmarket</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jo Churchill&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Jo Churchill</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Bury+St+Edmunds+and+Stowmarket"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Bury+St+Edmunds+and+Stowmarket" target="_blank" rel="noopener">4</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Central Suffolk and North Ipswich&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Central Suffolk and North Ipswich</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dr Dan Poulter&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Dr Dan Poulter</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tiverton+and+Minehead"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tiverton+and+Minehead" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Chelmsford&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Chelmsford</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Vicky Ford&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Vicky Ford</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Chelmsford"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Chelmsford" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Chichester&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Chichester</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Gillian Keegan&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Gillian Keegan</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Chichester"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Chichester" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Christchurch&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Christchurch</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sir Christopher Chope&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Sir Christopher Chope</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Christchurch"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Christchurch" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;East Grinstead and Uckfield&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">East Grinstead and Uckfield</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=East+Grinstead+and+Uckfield"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=East+Grinstead+and+Uckfield" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;East Hampshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">East Hampshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Damian Hinds&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Damian Hinds</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hampshire+East"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hampshire+East" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;East Surrey&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">East Surrey</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Claire Coutinho&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Claire Coutinho</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tied LL&quot;}">Tied LL</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Surrey+East"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Surrey+East" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;East Wiltshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">East Wiltshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Danny Kruger&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Danny Kruger</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-note="technically 3 - feels like should be 2">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ely and East Cambridgeshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Ely and East Cambridgeshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lucy Frazer&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Lucy Frazer</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tied LL&quot;}">Tied LL</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Ely+and+East+Cambridgeshire"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Ely+and+East+Cambridgeshire" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Epsom and Ewell&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Epsom and Ewell</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Chris Grayling&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Chris Grayling</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Epsom+and+Ewell"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Epsom+and+Ewell" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fareham and Waterlooville&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Fareham and Waterlooville</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Suella Braverman&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Suella Braverman</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Fareham+and+Waterlooville"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Fareham+and+Waterlooville" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Farnham and Bordon&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Farnham and Bordon</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Farnham+and+Bordon"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Farnham+and+Bordon" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Frome &amp; East Somerset&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Frome &amp; East Somerset</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Frome+and+East+Somerset"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Frome+and+East+Somerset" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hamble Valley&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Hamble Valley</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Paul Holmes &quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Paul Holmes</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hamble+Valley"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hamble+Valley" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Hinckley &amp; Bosworth&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Hinckley &amp; Bosworth</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Luke Evans&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Luke Evans</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-note="Tories far ahead">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hinckley+and+Bosworth"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hinckley+and+Bosworth" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Honiton and Sidmouth&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Honiton and Sidmouth</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Honiton+and+Sidmouth"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Honiton+and+Sidmouth" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Horsham&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Horsham</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jeremy Quin&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Jeremy Quin</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tied LL&quot;}">Tied LL</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Horsham"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Horsham" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kenilworth and Southam&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Kenilworth and Southam</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sir Jeremy Wright&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Sir Jeremy Wright</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Kenilworth+and+Southam"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Kenilworth+and+Southam" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Maidenhead&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Maidenhead</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mrs Theresa May&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Mrs Theresa May</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Conflicting&quot;}">Conflicting</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Maidenhead"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Maidenhead" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Melksham and Devizes&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Melksham and Devizes</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Michelle Donelan&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Michelle Donelan</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Melksham+and+Devizes"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Melksham+and+Devizes" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mid Buckinghamshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Mid Buckinghamshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Greg Smith&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Greg Smith</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Buckinghamshire+Mid"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Buckinghamshire+Mid" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mid Dorset and North Poole&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Mid Dorset and North Poole</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Michael Tomlinson&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Michael Tomlinson</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Dorset+Mid+and+Poole+North"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Dorset+Mid+and+Poole+North" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New Forest East&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New Forest East</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dr Julian Lewis&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Dr Julian Lewis</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=New+Forest+East"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=New+Forest+East" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New Forest West&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New Forest West</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sir Desmond Swayne&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Sir Desmond Swayne</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=New+Forest+West"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=New+Forest+West" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Newton Abbot&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Newton Abbot</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Anne Marie Morris&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Anne Marie Morris</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Newton+Abbot"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Newton+Abbot" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North Cornwall&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North Cornwall</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scott Mann&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Scott Mann</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cornwall+North"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cornwall+North" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North Cotswolds&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North Cotswolds</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cotswolds+North"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cotswolds+North" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North Dorset&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North Dorset</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Simon Hoare&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Simon Hoare</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tied LL&quot;}">Tied LL</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Dorset+North"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Dorset+North" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North East Hampshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North East Hampshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mr Ranil Jayawardena&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Mr Ranil Jayawardena</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hampshire+North+East"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hampshire+North+East" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North Herefordshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North Herefordshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sir Bill Wiggin&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Sir Bill Wiggin</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Herefordshire+North"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Herefordshire+North" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North Shropshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North Shropshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Helen Morgan&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Helen Morgan</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Shropshire+North"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Shropshire+North" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North West Essex (Saffron Walden)&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North West Essex (Saffron Walden)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kemi Badenoch&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Kemi Badenoch</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Essex+North+West"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Essex+North+West" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;North West Hampshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">North West Hampshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kit Malthouse&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Kit Malthouse</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hampshire+North+West"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Hampshire+North+West" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Reigate&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Reigate</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Crispin Blunt&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Crispin Blunt</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Reigate"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Reigate" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Runnymede and Weybridge&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Runnymede and Weybridge</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dr Ben Spencer&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Dr Ben Spencer</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Runnymede+and+Weybridge"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Runnymede+and+Weybridge" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Salisbury&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Salisbury</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;John Glen&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">John Glen</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Salisbury"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Salisbury" target="_blank" rel="noopener">3</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sevenoaks&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Sevenoaks</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Laura Trott&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Laura Trott</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Sevenoaks"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Sevenoaks" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;South Cotswolds (Stroud + Cots)&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">South Cotswolds (Stroud + Cots)</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Geoffrey Clifton-Brown&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Geoffrey Clifton-Brown</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cotswolds+South"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cotswolds+South" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;South East Cornwall&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">South East Cornwall</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mrs Sheryll Murray&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Mrs Sheryll Murray</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cornwall+South+East"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Cornwall+South+East" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;South Shropshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">South Shropshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Philip Dunne&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Philip Dunne</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-note="Tories far ahead so 3 not 2">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Shropshire+South"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Shropshire+South" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;St Neots and Mid Cambridgeshire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">St Neots and Mid Cambridgeshire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">New</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Conflicting&quot;}">Conflicting</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;No&quot;}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=St+Neots+and+Mid+Cambridgeshire"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=St+Neots+and+Mid+Cambridgeshire" target="_blank" rel="noopener">No</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A&quot;}">A</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Stratford-on-Avon&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Stratford-on-Avon</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nadhim Zahawi&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Nadhim Zahawi</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Stratford-on-Avon"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Stratford-on-Avon" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Surrey Heath&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Surrey Heath</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Michael Gove&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Michael Gove</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Surrey+Heath"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Surrey+Heath" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sussex Weald&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Sussex Weald</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ms Nusrat Ghani&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Ms Nusrat Ghani</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Sussex+Weald"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Sussex+Weald" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tewkesbury&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Tewkesbury</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mr Laurence Robertson&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Mr Laurence Robertson</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tewkesbury"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tewkesbury" target="_blank" rel="noopener">1</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tonbridge&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Tonbridge</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tom Tugendhat&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Tom Tugendhat</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tonbridge"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tonbridge" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Torbay&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Torbay</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Kevin Foster&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Kevin Foster</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Torbay"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Torbay" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Torridge and Tavistock&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Torridge and Tavistock</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Geoffrey Cox&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Geoffrey Cox</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Torridge+and+Tavistock"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Torridge+and+Tavistock" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tunbridge Wells&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Tunbridge Wells</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Greg Clark&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Greg Clark</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tunbridge+Wells"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Tunbridge+Wells" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wells and Mendip Hills&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Wells and Mendip Hills</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;James Heappey&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">James Heappey</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lib&quot;}">Lib</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Wells+and+Mendip+Hills"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Wells+and+Mendip+Hills" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;West Worcestershire&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">West Worcestershire</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Harriett Baldwin&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Harriett Baldwin</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Worcestershire+West"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Worcestershire+West" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Witney&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Witney</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robert Courts&quot;}" data-sheets-numberformat="{&quot;1&quot;:1}">Robert Courts</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lab&quot;}">Lab</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-hyperlink="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Witney"><a class="in-cell-link" href="https://www.electoralcalculus.co.uk/fcgi-bin/calcwork23.py?seat=Witney" target="_blank" rel="noopener">2</a></td>
+<td style="text-align: center;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Y&quot;}">Y</td>
+</tr>
+</tbody>
+</table>
